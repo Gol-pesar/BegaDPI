@@ -1,0 +1,6 @@
+{
+  "name": "BegaDPI",
+  "description": "A lightweight and powerful DPI circumvention local proxy server for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
